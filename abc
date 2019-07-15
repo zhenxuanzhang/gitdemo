@@ -1,5 +1,7 @@
 aaa
-
+function a(x){
+	console.log(x);
+}
 bbb
 
 ccc
