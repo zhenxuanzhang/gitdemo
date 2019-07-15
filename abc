@@ -3,5 +3,16 @@ function a(x){
 	console.log(x);
 }
 bbb
+function b(x){
+        console.log(x);
+}
+
 
 ccc
+function c(x){
+        console.log(x);
+}
+
+
+
+
